@@ -1,11 +1,14 @@
 const express = require("express");
 const fs = require("fs");
 const users = require("./MOCK_DATA.json");
+const cors = require("cors");
 
 const app = express();
 const PORT = process.env.PORT || 8000;
 
 app.use(express.urlencoded({ extended: false }));
+
+app.use(cors());
 
 app.listen(PORT, () => console.log("server is running at port", PORT));
 
