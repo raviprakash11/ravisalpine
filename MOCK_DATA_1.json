@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Daniel",
+    "last_name": "Green",
+    "email": "hunttonya@hotmail.com",
+    "gender": "Male",
+    "address": "65616 Chris Mission Suite 577\nWest Rebecca, MN 92677"
+  },
+  {
+    "id": 2,
+    "first_name": "Jay",
+    "last_name": "Jackson",
+    "email": "leslieduncan@yahoo.com",
+    "gender": "Male",
+    "address": "60274 Sharon Greens Suite 144\nNorth Denise, UT 73872"
+  },
+  {
+    "id": 3,
+    "first_name": "Melissa",
+    "last_name": "Miller",
+    "email": "wgolden@stevens.com",
+    "gender": "Female",
+    "address": "328 Bird Valley Suite 004\nSouth Charleshaven, MT 23592"
+  },
+  {
+    "id": 4,
+    "first_name": "Denise",
+    "last_name": "Hernandez",
+    "email": "carrollcourtney@gmail.com",
+    "gender": "Female",
+    "address": "5155 Lori Shores Apt. 423\nPort Laurenstad, NH 86683"
+  },
+  {
+    "id": 5,
+    "first_name": "Danielle",
+    "last_name": "Simmons",
+    "email": "johnsonashley@hotmail.com",
+    "gender": "Male",
+    "address": "457 Jackson Expressway Suite 786\nWest Virginia, MT 52239"
+  },
+  {
+    "id": 6,
+    "first_name": "Antonio",
+    "last_name": "Bauer",
+    "email": "mcintyreadrian@jordan.com",
+    "gender": "Male",
+    "address": "Unit 1050 Box 2595\nDPO AP 36934"
+  },
+  {
+    "id": 7,
+    "first_name": "Anthony",
+    "last_name": "Jacobs",
+    "email": "melaniedelgado@hotmail.com",
+    "gender": "Female",
+    "address": "337 Andrew Spring\nNew Jessica, WA 66454"
+  },
+  {
+    "id": 8,
+    "first_name": "Christopher",
+    "last_name": "Myers",
+    "email": "eferguson@yahoo.com",
+    "gender": "Female",
+    "address": "06007 Daniel Land\nPerryshire, PA 56481"
+  },
+  {
+    "id": 9,
+    "first_name": "Dustin",
+    "last_name": "Rice",
+    "email": "yjones@gmail.com",
+    "gender": "Male",
+    "address": "457 David Turnpike\nEast Randytown, NY 65796"
+  },
+  {
+    "id": 10,
+    "first_name": "Bradley",
+    "last_name": "Beard",
+    "email": "onealcarol@gmail.com",
+    "gender": "Male",
+    "address": "PSC 3799, Box 1885\nAPO AE 06439"
+  }
+]
